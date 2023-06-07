@@ -1,2 +1,2 @@
 # MagicEdit
-https://MagicStation.github.io/MagicEdit
+https://MagicStation.github.io/MagicProp
